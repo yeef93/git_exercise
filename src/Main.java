@@ -71,10 +71,6 @@ public class Main {
             System.out.print(initial.toUpperCase().charAt(0));
         scanner.close();
 
-//        // example array
-//        String[][] nameMatrix = {{"1","2"}, {"tes", "coba"}};
-//        System.out.print(nameMatrix[1][1]);
-
     }
 
     // function to get area
